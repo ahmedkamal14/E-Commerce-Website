@@ -17,7 +17,7 @@ const Home = () => {
       <div className="proucts">
         <Products />
       </div>
-      <div className='collections bg-[url("./images/background.png")] bg-cover bg-center bg-no-repeat xl:px-28 px-24 my-20'>
+      <div className='collections bg-[url("../public/images/background.png")] bg-cover bg-center bg-no-repeat xl:px-28 px-24 my-20'>
         <Collections />
       </div>
       <div className="best-seller">
